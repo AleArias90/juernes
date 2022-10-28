@@ -1,0 +1,24 @@
+#parrafo1{
+    color: rgb(147, 189, 130);
+    background-color: rgb(167, 41, 41);
+}
+#parrafo2{
+    color: rgb(90, 120, 153);
+}
+h1{
+    color: darkgreen;
+}
+#encabezado-cuatro{
+    color: rgb(18, 139, 55);
+}
+.color-red{
+    color: rgb(182, 14, 50);
+}
+.color-blue{
+    color: blue;
+}
+body{
+    background-image: url(https://cloudfront-us-east-1.images.arcpublishing.com/infobae/KQDYQOD6TJACHKI2REX7PI4WRY.jpeg);
+    background-size: cover;
+
+}
